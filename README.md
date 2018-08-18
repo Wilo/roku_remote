@@ -1,5 +1,5 @@
 ## The Python Tkinter GUI Roku Remote
-<img src="https://github.com/rootVIII/roku_remote/blob/master/screenshot.png" alt="example1" height="675" width="400">
+<img src="https://github.com/rootVIII/roku_remote/blob/master/screenshot.png" alt="example1" height="675" width="350">
 <br><br>
 Runs on Python2 or Python3
 <br><br>
