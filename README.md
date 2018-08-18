@@ -1,5 +1,5 @@
 ## The Python Tkinter GUI Roku Remote
-<img src="https://github.com/rootVIII/roku_remote/blob/master/screenshot.png" alt="example1" height="675" width="350">
+<img src="https://github.com/rootVIII/roku_remote/blob/master/screenshot.png" alt="example1" height="675" width="330">
 <br><br>
 <b>First follow these quick/simple steps to enable your Roku Server:</b>
 <br>
